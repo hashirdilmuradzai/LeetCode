@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -26,9 +27,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
