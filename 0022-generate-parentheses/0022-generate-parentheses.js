@@ -1,4 +1,4 @@
-let generateParenthesis = function (n) {
+const generateParenthesis = function (n) {
   let result = [];
   function backtrack(current, open, close) {
     if (current.length === n * 2) {
