@@ -42,4 +42,9 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0704-binary-search](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0704-binary-search/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/hashirdilmuradzai/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
