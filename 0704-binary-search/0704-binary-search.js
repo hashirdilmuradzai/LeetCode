@@ -1,4 +1,5 @@
 const search = function (nums, target) {
+  //   nums.sort((a, b) => a - b); // sort array
   let start = 0;
   let end = nums.length - 1;
 
